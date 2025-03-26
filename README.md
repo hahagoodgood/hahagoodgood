@@ -1,44 +1,32 @@
-name: generate animation
+## INTRODUCTION
+- 🗓️: 2002.02.15
+- ☎️: 010-9522-9505
+- 📧: dh95229505@gmail.com
 
-on:
-  # run automatically every 24 hours
-  schedule:
-    - cron: "0 */12 * * *" 
-  
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
-  # run on every push on the main branch
-  push:
-    branches:
-    - main
-    
-  
+## INTEREST
+- MLOps(Machine Learing Operation)
+- Analysis of time series data
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<div align="center">
+
+## <img src="https://img.icons8.com/?size=100&id=15352&format=png&color=000000" height="21"> Git Status <img src="https://img.icons8.com/?size=100&id=15352&format=png&color=000000" height="21">
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+
+<div>
+
+![KimDongHyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hahagoodgood&hide=stars,contribs&count_private=true&show_icons=true)
+</div>
+
+<div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dh12842007)](https://solved.ac/dh12842007/)
+</div>
+
+</div>
+
+</div>
+
+<br>
+
+[![snake animation](https://github.com/hahagoodgood/hahagoodgood/blob/output/github-contribution-grid-snake2.svg)]
