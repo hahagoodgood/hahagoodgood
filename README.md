@@ -29,4 +29,5 @@
 
 <br>
 
-![snake animation](https://github.com/hahagoodgood/hahagoodgood/blob/output/github-contribution-grid-snake2.svg)
+[![snake animation](https://github.com/hahagoodgood/hahagoodgood/blob/output/github-contribution-grid-snake2.svg)]
+
