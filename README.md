@@ -29,5 +29,6 @@
 
 <br>
 
-[![snake animation](https://github.com/hahagoodgood/hahagoodgood/blob/output/github-contribution-grid-snake2.svg)]
+
+![Snake animation](https://raw.githubusercontent.com/hahagoodgood/hahagoodgood/output/github-contribution-grid-snake-dark.svg)
 
