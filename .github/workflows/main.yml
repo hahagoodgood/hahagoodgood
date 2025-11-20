@@ -24,11 +24,17 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+<<<<<<< HEAD
           outputs: 
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+=======
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#6faefd
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark?color_snake=#6faefd
+>>>>>>> 708b736482a4c7e0e6e3ba6d056508ed070a9725
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }}
           
           
       # push the content of <build_dir> to a branch
@@ -39,4 +45,8 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
+<<<<<<< HEAD
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+=======
+          GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }} 
+>>>>>>> 708b736482a4c7e0e6e3ba6d056508ed070a9725
