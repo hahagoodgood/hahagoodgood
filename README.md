@@ -6,6 +6,8 @@
 ## INTEREST
 - MLOps(Machine Learing Operation)
 - Analysis of time series data
+- NLP(Natural Language Processing)
+- Multimodal learning
 
 <div align="center">
 
