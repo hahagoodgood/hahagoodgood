@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:2F80ED&height=300&section=header&text=Welcome!&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=I'm%20 Kim%20Dong%20Hyuk!&descSize=25" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:2F80ED&height=300&section=header&text=Welcome!&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=I'm%20 Kim%20Dong%20Hyuk!&descSize=25"/>
 
 ## INTRODUCTION
 - 🗓️: 2002.02.15
