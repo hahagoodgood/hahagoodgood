@@ -2,15 +2,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:2F80ED&height=300&section=header&text=Welcome!&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=I'm%20Kim%20Dong%20Hyuk!&descSize=25"/>
 
 ## INTRODUCTION
-- 🗓️: 2002.02.15
-- ☎️: 010-9522-9505
-- 📧: dh95229505@gmail.com
+- 👤 **Name**: Kim Dong Hyuk
+- 🎂 **Birth**: 2002.02.15
+- 📧 **Email**: dh95229505@gmail.com
 
 ## INTEREST
-- MLOps(Machine Learing Operation)
-- Analysis of time series data
-- NLP(Natural Language Processing)
-- Multimodal learning
+- 🤖 **MLOps** (Machine Learning Operation)
+- 📊 **Time Series Analysis**
+- 💬 **NLP** (Natural Language Processing)
+- 🎯 **Multimodal Learning**
 
 <div align="center">
 
