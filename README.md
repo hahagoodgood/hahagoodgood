@@ -1,12 +1,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:2F80ED&height=300&section=header&text=Welcome!&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=I'm%20Kim%20Dong%20Hyuk!&descSize=25"/>
+
 <div align="center">
+
+## 📊 GitHub Activity
+
 <table>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=hahagoodgood&hide=stars,contribs&count_private=true&show_icons=true&theme=default&bg_color=ffffff&title_color=2F80ED&icon_color=56CCF2&text_color=333333&border_color=56CCF2" alt="GitHub Stats" />
 </td>
-<td align="center">
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hahagoodgood&layout=compact&theme=default&bg_color=ffffff&title_color=2F80ED&text_color=333333&border_color=56CCF2" alt="Most Used Languages" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hahagoodgood&theme=default&background=ffffff&ring=2F80ED&fire=56CCF2&currStreakLabel=2F80ED&border=56CCF2" alt="GitHub Streak" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
 <a href="https://solved.ac/dh12842007/">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dh12842007" alt="Solved.ac Profile" />
 </a>
@@ -23,13 +37,35 @@
 - 🎂 **Birth**: 2002.02.15
 - 📧 **Email**: dh95229505@gmail.com
 
-## INTEREST
-- 📊 **Time Series Analysis**
-- 💬 **NLP** (Natural Language Processing)
-- 🎯 **Multimodal Learning**
-- 🤖 **MLOps** (Machine Learning Operation)
 
-## Skill Set
+## Research Interests
+
+<table>
+<tr>
+<td width="50%">
+
+- 📊 Time Series Analysis
+
+
+- 💬 Natural Language Processing
+
+</td>
+<td width="50%">
+
+- 🎯 Multimodal Learning
+
+
+- 🤖 MLOps
+
+
+</td>
+</tr>
+</table>
+
+
+---
+
+## 🛠️ Skills & Technologies
 
 ### Programming Languages
 <p>
