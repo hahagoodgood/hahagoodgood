@@ -1,5 +1,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:2F80ED&height=300&section=header&text=Welcome!&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=I'm%20Kim%20Dong%20Hyuk!&descSize=25"/>
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hahagoodgood&hide=stars,contribs&count_private=true&show_icons=true&theme=default&bg_color=ffffff&title_color=2F80ED&icon_color=56CCF2&text_color=333333&border_color=56CCF2" alt="GitHub Stats" />
+</td>
+<td align="center">
+<a href="https://solved.ac/dh12842007/">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dh12842007" alt="Solved.ac Profile" />
+</a>
+</td>
+</tr>
+</table>
+
+![Snake animation](https://raw.githubusercontent.com/hahagoodgood/hahagoodgood/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ## INTRODUCTION
 - 👤 **Name**: Kim Dong Hyuk
@@ -94,23 +111,4 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
----
 
-## 📈 GitHub Stats & Achievements
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hahagoodgood&hide=stars,contribs&count_private=true&show_icons=true&theme=default&bg_color=ffffff&title_color=2F80ED&icon_color=56CCF2&text_color=333333&border_color=56CCF2" alt="GitHub Stats" />
-</td>
-<td align="center">
-<a href="https://solved.ac/dh12842007/">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dh12842007" alt="Solved.ac Profile" />
-</a>
-</td>
-</tr>
-</table>
-
-![Snake animation](https://raw.githubusercontent.com/hahagoodgood/hahagoodgood/output/github-contribution-grid-snake.svg)
-
-</div>
