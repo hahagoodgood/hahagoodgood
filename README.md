@@ -3,8 +3,6 @@
 
 <div align="center">
 
-## 📊 GitHub Activity
-
 <table>
 <tr>
 <td align="center" width="50%">
@@ -40,17 +38,13 @@
 
 ## Research Interests
 
-<table>
-<tr>
-<td width="50%">
+
 
 - 📊 Time Series Analysis
 
 
 - 💬 Natural Language Processing
 
-</td>
-<td width="50%">
 
 - 🎯 Multimodal Learning
 
@@ -58,14 +52,7 @@
 - 🤖 MLOps
 
 
-</td>
-</tr>
-</table>
-
-
----
-
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 ### Programming Languages
 <p>
@@ -79,8 +66,8 @@
 
 ### Machine Learning & AI
 <p>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
 <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white">
@@ -100,11 +87,11 @@
 
 ### Backend
 <p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </p>
 
 ### Frontend
@@ -141,10 +128,6 @@
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 </p>
 
-### Operating System
-<p>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</p>
+
 
 
