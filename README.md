@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td align="center" colspan="2">
-<img src="https://github-profile-trophy.vercel.app/?username=hahagoodgood&theme=flat&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://streak-stats.demolab.com?user=hahagoodgood&theme=default&background=ffffff&ring=2F80ED&fire=56CCF2&currStreakLabel=2F80ED&border=56CCF2" alt="GitHub Streak" />
 </td>
 </tr>
 <tr>
